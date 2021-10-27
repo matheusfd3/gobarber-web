@@ -18,8 +18,7 @@ $ yarn start
 ```
 Acesse [http://localhost:3000/](http://localhost:3000/).
 ### Backend
-Esse projeto precisa do backend gobarber-api para funcionar corretamente.
-Acesse [https://github.com/matheusfd3/gobarber-api](https://github.com/matheusfd3/gobarber-api).
+Esse projeto precisa do backend [gobarber-api](https://github.com/matheusfd3/gobarber-api) para funcionar corretamente.
 
 ## Páginas
 ### **Login**
